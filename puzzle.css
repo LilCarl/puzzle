@@ -12,6 +12,9 @@ h1 {
 img {
 	margin: 2px;
 }
+img:hover{
+	opacity:0.5;	
+}
 
 div#gameboard {
 	background-color: white;
